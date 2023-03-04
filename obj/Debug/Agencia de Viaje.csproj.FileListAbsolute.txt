@@ -1,0 +1,30 @@
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Agencia de Viaje.exe.config
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Agencia de Viaje.exe
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Agencia de Viaje.pdb
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia_de_Viaje.Form1.resources
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia_de_Viaje.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.exe
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.pdb
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\MySql.Data.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Google.Protobuf.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Renci.SshNet.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\MySql.Data.xml
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Zstandard.Net.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\System.Buffers.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\System.Memory.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.exe.config
+C:\Users\Lucas\source\repos\Agencia de Viaje\obj\Debug\Agencia de Viaje.csproj.CoreCompileInputs.cache
